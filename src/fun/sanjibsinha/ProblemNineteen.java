@@ -1,6 +1,6 @@
 package fun.sanjibsinha;
 
-public class ProblrmNineteen {
+public class ProblemNineteen {
     //local variable
     public void WeightOfFatherBear(){
         int weight = 0;
@@ -9,7 +9,7 @@ public class ProblrmNineteen {
     }
 
     public static void main(String[] args) {
-        ProblrmNineteen fatherWeight = new ProblrmNineteen();
+        ProblemNineteen fatherWeight = new ProblemNineteen();
         fatherWeight.WeightOfFatherBear();
     }
 }

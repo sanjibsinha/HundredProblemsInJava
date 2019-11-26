@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df8e583c-4ae8-439e-8f9b-8f0b9e175dd9" name="Default Changelist" comment="" />
+    <list default="true" id="df8e583c-4ae8-439e-8f9b-8f0b9e175dd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HundredProblemsInJava/fun/sanjibsinha/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HundredProblemsInJava/fun/sanjibsinha/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HundredProblemsInJava/fun/sanjibsinha/NewClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HundredProblemsInJava/fun/sanjibsinha/NewClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/NameAndSurname.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/NameAndSurname.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/NewClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/NewClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/PatternOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/PatternOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEighteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEighteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEleven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFifteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFourteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemNineteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemNineteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSeventeen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSeventeen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSixteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSixteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwelve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwelve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwenty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwenty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyEight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentySeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentySeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentySix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentySix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/UpperCaseTrianglePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/UpperCaseTrianglePattern.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +49,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TPIjwvW4a2RFwsA5glHu5oCfFi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -31,9 +73,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AddingTwoNumbers">
-    <configuration name="AddingTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.AddingTwoNumbers" />
+  <component name="RunManager" selected="Application.ProblemThirtyTwo">
+    <configuration name="ProblemThirty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemThirty" />
       <module name="HundredProblemsInJava" />
       <extension name="coverage">
         <pattern>
@@ -45,18 +87,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.Main" />
+    <configuration name="ProblemThirtyOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemThirtyOne" />
       <module name="HundredProblemsInJava" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.sanjibsinha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.NewClass" />
+    <configuration name="ProblemThirtyTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemThirtyTwo" />
+      <module name="HundredProblemsInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.sanjibsinha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemTwentyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemTwentyEight" />
+      <module name="HundredProblemsInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.sanjibsinha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemTwentyNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemTwentyNine" />
       <module name="HundredProblemsInJava" />
       <extension name="coverage">
         <pattern>
@@ -69,15 +140,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.NewClass" />
-      <item itemvalue="Application.AddingTwoNumbers" />
+      <item itemvalue="Application.ProblemTwentyEight" />
+      <item itemvalue="Application.ProblemTwentyNine" />
+      <item itemvalue="Application.ProblemThirty" />
+      <item itemvalue="Application.ProblemThirtyOne" />
+      <item itemvalue="Application.ProblemThirtyTwo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AddingTwoNumbers" />
-        <item itemvalue="Application.NewClass" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ProblemThirtyTwo" />
+        <item itemvalue="Application.ProblemThirtyOne" />
+        <item itemvalue="Application.ProblemThirty" />
+        <item itemvalue="Application.ProblemTwentyNine" />
+        <item itemvalue="Application.ProblemTwentyEight" />
       </list>
     </recent_temporary>
   </component>
@@ -93,5 +168,18 @@
       <updated>1573355442505</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
