@@ -2,45 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df8e583c-4ae8-439e-8f9b-8f0b9e175dd9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFifty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFiftyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFortyEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFortyFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFortyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFortySeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFortySix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFortyThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HundredProblemsInJava/fun/sanjibsinha/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HundredProblemsInJava/fun/sanjibsinha/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HundredProblemsInJava/fun/sanjibsinha/NewClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HundredProblemsInJava/fun/sanjibsinha/NewClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/NameAndSurname.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/NameAndSurname.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/NewClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/NewClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/PatternOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/PatternOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEighteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEighteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEleven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFifteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFourteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemNine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemNineteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemNineteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSeventeen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSeventeen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSixteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSixteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwelve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwelve.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwenty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwenty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyEight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyNine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentySeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentySeven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentySix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentySix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemTwentyTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/UpperCaseTrianglePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/UpperCaseTrianglePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HundredProblemsInJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HundredProblemsInJava.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,14 +38,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1TPIjwvW4a2RFwsA5glHu5oCfFi" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/commons-lang3-3.9.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NewModule/lib" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -73,9 +81,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProblemThirtyTwo">
-    <configuration name="ProblemThirty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemThirty" />
+  <component name="RunManager" selected="Application.ProblemFiftyOne">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="NewModule" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemFifty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemFifty" />
       <module name="HundredProblemsInJava" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemThirtyOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemThirtyOne" />
+    <configuration name="ProblemFiftyOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemFiftyOne" />
       <module name="HundredProblemsInJava" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemThirtyTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemThirtyTwo" />
+    <configuration name="ProblemFortyNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemFortyNine" />
       <module name="HundredProblemsInJava" />
       <extension name="coverage">
         <pattern>
@@ -113,46 +128,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemTwentyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemTwentyEight" />
-      <module name="HundredProblemsInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fun.sanjibsinha.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProblemTwentyNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemTwentyNine" />
-      <module name="HundredProblemsInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fun.sanjibsinha.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="common-lang3.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/common-lang3.jar" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.ProblemTwentyEight" />
-      <item itemvalue="Application.ProblemTwentyNine" />
-      <item itemvalue="Application.ProblemThirty" />
-      <item itemvalue="Application.ProblemThirtyOne" />
-      <item itemvalue="Application.ProblemThirtyTwo" />
+      <item itemvalue="Application.ProblemFortyNine" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.common-lang3.jar" />
+      <item itemvalue="Application.ProblemFifty" />
+      <item itemvalue="Application.ProblemFiftyOne" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProblemThirtyTwo" />
-        <item itemvalue="Application.ProblemThirtyOne" />
-        <item itemvalue="Application.ProblemThirty" />
-        <item itemvalue="Application.ProblemTwentyNine" />
-        <item itemvalue="Application.ProblemTwentyEight" />
+        <item itemvalue="Application.ProblemFiftyOne" />
+        <item itemvalue="Application.ProblemFifty" />
+        <item itemvalue="Application.ProblemFortyNine" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.common-lang3.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -181,5 +174,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HundredProblemsInJava$.ic" NAME=" Coverage Results" MODIFIED="1574998459936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
