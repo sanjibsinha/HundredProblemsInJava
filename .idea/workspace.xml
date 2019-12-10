@@ -2,24 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df8e583c-4ae8-439e-8f9b-8f0b9e175dd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFifty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFiftyOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFortyEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFortyFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFortyOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFortySeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFortySix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFortyThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemThirtyNine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ArrayObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFiftyEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFiftyFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFiftyFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFiftyNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFiftySeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFiftySix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemFiftyThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSixty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSixtyFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSixtyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSixtyThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSixtyTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblrmFiftySix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HundredProblemsInJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HundredProblemsInJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HundredProblemsInJava/META-INF/HundredProblemsInJava.kotlin_module" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,11 +50,16 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/commons-lang3-3.9.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Java-Book/commons-lang3-3.9.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -69,28 +74,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ProblemFiftyOne">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="NewModule" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProblemFifty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemFifty" />
+  <component name="RunManager" selected="Application.ProblemSixtyFour">
+    <configuration name="ProblemSixty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemSixty" />
       <module name="HundredProblemsInJava" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemFiftyOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemFiftyOne" />
+    <configuration name="ProblemSixtyFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemSixtyFour" />
       <module name="HundredProblemsInJava" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemFortyNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemFortyNine" />
+    <configuration name="ProblemSixtyOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemSixtyOne" />
       <module name="HundredProblemsInJava" />
       <extension name="coverage">
         <pattern>
@@ -128,26 +114,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="common-lang3.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/common-lang3.jar" />
-      <method v="2" />
+    <configuration name="ProblemSixtyThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemSixtyThree" />
+      <module name="HundredProblemsInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.sanjibsinha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemSixtyTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemSixtyTwo" />
+      <module name="HundredProblemsInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.sanjibsinha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ProblemFortyNine" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JAR Application.common-lang3.jar" />
-      <item itemvalue="Application.ProblemFifty" />
-      <item itemvalue="Application.ProblemFiftyOne" />
+      <item itemvalue="Application.ProblemSixty" />
+      <item itemvalue="Application.ProblemSixtyOne" />
+      <item itemvalue="Application.ProblemSixtyTwo" />
+      <item itemvalue="Application.ProblemSixtyThree" />
+      <item itemvalue="Application.ProblemSixtyFour" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProblemFiftyOne" />
-        <item itemvalue="Application.ProblemFifty" />
-        <item itemvalue="Application.ProblemFortyNine" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JAR Application.common-lang3.jar" />
+        <item itemvalue="Application.ProblemSixtyFour" />
+        <item itemvalue="Application.ProblemSixtyThree" />
+        <item itemvalue="Application.ProblemSixtyTwo" />
+        <item itemvalue="Application.ProblemSixtyOne" />
+        <item itemvalue="Application.ProblemSixty" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -177,6 +197,28 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="174" key="GridCell.Tab.0.bottom" timestamp="1575856312534">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state width="1259" height="174" key="GridCell.Tab.0.bottom/61.27.1305.741@61.27.1305.741" timestamp="1575856312534" />
+    <state width="1259" height="174" key="GridCell.Tab.0.center" timestamp="1575856312532">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state width="1259" height="174" key="GridCell.Tab.0.center/61.27.1305.741@61.27.1305.741" timestamp="1575856312532" />
+    <state width="1259" height="174" key="GridCell.Tab.0.left" timestamp="1575856312531">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state width="1259" height="174" key="GridCell.Tab.0.left/61.27.1305.741@61.27.1305.741" timestamp="1575856312531" />
+    <state width="1259" height="174" key="GridCell.Tab.0.right" timestamp="1575856312532">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state width="1259" height="174" key="GridCell.Tab.0.right/61.27.1305.741@61.27.1305.741" timestamp="1575856312532" />
+    <state x="369" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575855341381">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state x="369" y="225" key="com.intellij.ide.util.TipDialog/61.27.1305.741@61.27.1305.741" timestamp="1575855341381" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HundredProblemsInJava$.ic" NAME=" Coverage Results" MODIFIED="1574998459936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
