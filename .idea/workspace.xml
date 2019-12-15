@@ -2,26 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df8e583c-4ae8-439e-8f9b-8f0b9e175dd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ArmStrongNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/PrinterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEightyEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEightyFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEightyFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEightySeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEightySix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemEightyTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemNinety.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSeventy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSeventyFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSeventyFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSeventySix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSeventyTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSixtyEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSixtyFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblrmSeventySeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/AnotherMobileClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/CatyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/MobileFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/MobileUpgradable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemHundred.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemNinetyFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemNinetyFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemNinetyNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemNinetyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/TestingScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/UserInputOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HundredProblemsInJava/fun/sanjibsinha/ProblemSixtyFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HundredProblemsInJava/fun/sanjibsinha/ProblemSixtyFour.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSixtyFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/ProblemSixtyFour.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +58,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -77,9 +69,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProblemNinety">
-    <configuration name="ProblemEightyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemEightyEight" />
+  <component name="RunManager" selected="Application.ProblemHundred">
+    <configuration name="ProblemHundred" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemHundred" />
       <module name="HundredProblemsInJava" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemEightyNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemEightyNine" />
+    <configuration name="ProblemNinetyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemNinetyEight" />
       <module name="HundredProblemsInJava" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemEightySeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemEightySeven" />
+    <configuration name="ProblemNinetyNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemNinetyNine" />
       <module name="HundredProblemsInJava" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemEightySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemEightySix" />
+    <configuration name="ProblemNinetySeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemNinetySeven" />
       <module name="HundredProblemsInJava" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemNinety" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemNinety" />
+    <configuration name="ProblemNinetySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.ProblemNinetySix" />
       <module name="HundredProblemsInJava" />
       <extension name="coverage">
         <pattern>
@@ -144,19 +136,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ProblemEightySix" />
-      <item itemvalue="Application.ProblemEightySeven" />
-      <item itemvalue="Application.ProblemEightyEight" />
-      <item itemvalue="Application.ProblemEightyNine" />
-      <item itemvalue="Application.ProblemNinety" />
+      <item itemvalue="Application.ProblemNinetySix" />
+      <item itemvalue="Application.ProblemNinetySeven" />
+      <item itemvalue="Application.ProblemNinetyEight" />
+      <item itemvalue="Application.ProblemNinetyNine" />
+      <item itemvalue="Application.ProblemHundred" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProblemNinety" />
-        <item itemvalue="Application.ProblemEightyNine" />
-        <item itemvalue="Application.ProblemEightyEight" />
-        <item itemvalue="Application.ProblemEightySeven" />
-        <item itemvalue="Application.ProblemEightySix" />
+        <item itemvalue="Application.ProblemHundred" />
+        <item itemvalue="Application.ProblemNinetyNine" />
+        <item itemvalue="Application.ProblemNinetyEight" />
+        <item itemvalue="Application.ProblemNinetySeven" />
+        <item itemvalue="Application.ProblemNinetySix" />
       </list>
     </recent_temporary>
   </component>
@@ -206,26 +198,34 @@
       <screen x="61" y="27" width="1305" height="741" />
     </state>
     <state x="308" y="58" width="800" height="677" key="#Plugins/61.27.1305.741@61.27.1305.741" timestamp="1576022516145" />
-    <state width="1259" height="174" key="GridCell.Tab.0.bottom" timestamp="1576041774644">
+    <state x="491" y="140" width="434" height="513" key="FileChooserDialogImpl" timestamp="1576284324682">
       <screen x="61" y="27" width="1305" height="741" />
     </state>
-    <state width="1259" height="174" key="GridCell.Tab.0.bottom/61.27.1305.741@61.27.1305.741" timestamp="1576041774644" />
-    <state width="1259" height="174" key="GridCell.Tab.0.center" timestamp="1576041774643">
+    <state x="491" y="140" width="434" height="513" key="FileChooserDialogImpl/61.27.1305.741@61.27.1305.741" timestamp="1576284324682" />
+    <state width="1259" height="174" key="GridCell.Tab.0.bottom" timestamp="1576381218846">
       <screen x="61" y="27" width="1305" height="741" />
     </state>
-    <state width="1259" height="174" key="GridCell.Tab.0.center/61.27.1305.741@61.27.1305.741" timestamp="1576041774643" />
-    <state width="1259" height="174" key="GridCell.Tab.0.left" timestamp="1576041774643">
+    <state width="1259" height="174" key="GridCell.Tab.0.bottom/61.27.1305.741@61.27.1305.741" timestamp="1576381218846" />
+    <state width="1259" height="174" key="GridCell.Tab.0.center" timestamp="1576381218841">
       <screen x="61" y="27" width="1305" height="741" />
     </state>
-    <state width="1259" height="174" key="GridCell.Tab.0.left/61.27.1305.741@61.27.1305.741" timestamp="1576041774643" />
-    <state width="1259" height="174" key="GridCell.Tab.0.right" timestamp="1576041774643">
+    <state width="1259" height="174" key="GridCell.Tab.0.center/61.27.1305.741@61.27.1305.741" timestamp="1576381218841" />
+    <state width="1259" height="174" key="GridCell.Tab.0.left" timestamp="1576381218840">
       <screen x="61" y="27" width="1305" height="741" />
     </state>
-    <state width="1259" height="174" key="GridCell.Tab.0.right/61.27.1305.741@61.27.1305.741" timestamp="1576041774643" />
-    <state x="369" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576034602208">
+    <state width="1259" height="174" key="GridCell.Tab.0.left/61.27.1305.741@61.27.1305.741" timestamp="1576381218840" />
+    <state width="1259" height="174" key="GridCell.Tab.0.right" timestamp="1576381218846">
       <screen x="61" y="27" width="1305" height="741" />
     </state>
-    <state x="369" y="225" key="com.intellij.ide.util.TipDialog/61.27.1305.741@61.27.1305.741" timestamp="1576034602208" />
+    <state width="1259" height="174" key="GridCell.Tab.0.right/61.27.1305.741@61.27.1305.741" timestamp="1576381218846" />
+    <state x="202" y="31" key="SettingsEditor" timestamp="1576284127484">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state x="202" y="31" key="SettingsEditor/61.27.1305.741@61.27.1305.741" timestamp="1576284127484" />
+    <state x="369" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576379812961">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state x="369" y="225" key="com.intellij.ide.util.TipDialog/61.27.1305.741@61.27.1305.741" timestamp="1576379812961" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HundredProblemsInJava$.ic" NAME=" Coverage Results" MODIFIED="1574998459936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
